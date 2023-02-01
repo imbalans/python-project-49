@@ -13,3 +13,7 @@
 ### BRAIN GCD GAME
 
 [![asciicast](https://asciinema.org/a/CU3VhUUS7gebpPDvQciBUySn0.svg)](https://asciinema.org/a/CU3VhUUS7gebpPDvQciBUySn0)
+
+### BRAIN PROGRESSION GAME
+
+[![asciicast](https://asciinema.org/a/aTjbowubgDEizTCFJ2S0jxj0y.svg)](https://asciinema.org/a/aTjbowubgDEizTCFJ2S0jxj0y)
