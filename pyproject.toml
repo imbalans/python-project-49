@@ -1,14 +1,18 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "Brain-Games is a funny game to cut your time and modefy your knowledge in math."
 authors = ["imbalans <imba.yeah@yandex.ru>"]
+repository = "https://github.com/imbalans/python-project-49"
 readme = "README.md"
 packages = [{include = "brain_games"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
 prompt = "^0.4.1"
+
+[tool.poetry.group.dev.dependencies]
+flake8 = "^6.0.0"
 
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
@@ -17,9 +21,6 @@ brain-calc = "brain_games.scripts.brain_calc:main"
 brain-gcd = "brain_games.scripts.brain_gcd:main"
 brain-progression = "brain_games.scripts.brain_progression:main"
 brain-prime = "brain_games.scripts.brain_prime:main"
-
-[tool.poetry.group.dev.dependencies]
-flake8 = "^6.0.0"
 
 [build-system]
 requires = ["poetry-core"]

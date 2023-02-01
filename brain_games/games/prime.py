@@ -4,7 +4,7 @@ DISCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
 def get_game_data():
-    nums = []
+    prime_numbers = []
     question = randint(2, 1000)
 
     for number in range(2, 1000):
@@ -12,9 +12,9 @@ def get_game_data():
             if number % i == 0:
                 break
         else:
-            nums.append(number)
+            prime_numbers.append(number)
 
-    if question in nums:
+    if question in prime_numbers:
         correct_answer = 'yes'
     else:
         correct_answer = 'no'
