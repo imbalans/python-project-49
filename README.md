@@ -17,3 +17,7 @@
 ### BRAIN PROGRESSION GAME
 
 [![asciicast](https://asciinema.org/a/aTjbowubgDEizTCFJ2S0jxj0y.svg)](https://asciinema.org/a/aTjbowubgDEizTCFJ2S0jxj0y)
+
+### BRAIN PRIME GAME
+
+[![asciicast](https://asciinema.org/a/9QqCxDxsamaLKKplZYdiygqIg.svg)](https://asciinema.org/a/9QqCxDxsamaLKKplZYdiygqIg)
