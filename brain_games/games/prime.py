@@ -7,7 +7,7 @@ def get_game_data():
     prime_numbers = []
     question = randint(2, 1000)
 
-    for number in range(2, 1000):
+    for number in range(2, 900):
         for i in range(2, number):
             if number % i == 0:
                 break
